@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka+Hollow&family=Cairo:wght@700;900&family=Noto+Nastaliq+Urdu:wght@700&display=swap');
+html , .App {
+background-image: linear-gradient(to right, #240165, #05001c);
+}
+.row{
+  margin-left: 0;
+}
+h1,  hr , h5 , h6{
+  color: white;
+font-family: 'Blaka Hollow', cursive;
+  font-family: 'Cairo', sans-serif;
+  font-family: 'Noto Nastaliq Urdu', serif;}
+h1{
+      font-size: 4rem;
+}
+.day{
+  border-radius: 5px;
+  background-image:linear-gradient(to right, rgb(153, 36, 227), rgb(60, 16, 118));
+  color: white;
+  margin: 0;
+}
+.input-group{
+margin-top: 2rem;
+  width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  text-align: right !important;
+}
